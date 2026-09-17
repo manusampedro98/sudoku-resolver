@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Herramientas de desarrollo
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables locales y archivos del sistema
+.env
+.DS_Store
+Thumbs.db

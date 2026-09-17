@@ -1,0 +1,13 @@
+name: sudoku-resolver
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - pygame-ce==2.5.8
+      - pytest==9.1.1
+      - ruff==0.16.7
+      - ipykernel==7.3.0
